@@ -2,7 +2,7 @@
 Command line application.
  
 ## Description
-The Bamazon app allows users to imput orders with use of an item ID and quantity amount. After each order the the stock quanity will be reflected in the stock quantity. Bamazon will display the total cost or tell the user the the quanity request is unavailable. The items for sell are stored in a mySQL database. Inquirer NPM must be installed to prompt the user to make their order selction. 
+The Bamazon app allows users to input orders and receive a response. Bamazon will display the total cost or tell the user the the quantity request is unavailable. After each order the stock quantity will be updated to reflect the amount of items ordered. The items for sale are stored in a mySQL database. Inquirer NPM must be installed to prompt the user to make their order selection. 
 
 ## Demo
 [Click to see video demo](Bamazon.mp4)
